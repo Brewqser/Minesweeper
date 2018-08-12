@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1534082470 source:c:\users\micha\desktop\1. minesweeper\main.cpp
+1534089528 source:c:\users\micha\desktop\1. minesweeper\main.cpp
 	<SFML/Graphics.hpp>
 	<iostream>
+	<time.h>
+	<vector>
+	<algorithm>
 
 1525815618 c:\sfml-2.5.0\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
